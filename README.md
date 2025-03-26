@@ -23,7 +23,7 @@ Hacker | Speaker | Designer | Security Engineer | Application Security | VAPT | 
 ## 🛠 Undetailed Overview of Skills:
 - **Web Application Security:** Burp Suite Professional, OWASP Zap, Sublist3r, Ffuf, Checkmarx.
 - **Network and Infra Pentesting:** Nmap, Metasploit, Wireshark, NetCat, Kali Linux, and Parrot OS.
-- **Tools & Platforms:** Git, GitHub, Linux, VS Code
+- **Cloud Tools & Platforms:** AWS, Azure, Docker, Git, GitHub, Linux.
 
 
 
