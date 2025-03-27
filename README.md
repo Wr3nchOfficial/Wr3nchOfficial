@@ -1,7 +1,7 @@
 ## Hi there! 👋
-I'm Aditya Khade, an **Information Security Engineer** with a passion for Experience and Knowledge in Information Security. 
+I'm Aditya Khade, an **Information Security Engineer** with a Passion, Experience, and Knowledge in Information Security. 
 My expertise lies in Application Security, Threat Modeling, Vulnerability Assessment, and Penetration Testing (VAPT). 
-Additionally, Experience includes Penetration Testing of Web Applications, Services, and Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST) Assessments on Applications Hosted on Cloud Platforms. SaaS (Software as a Service) Applications, Including Web Applications, APIs, Network and Thick Clients. Security Best Practices and Policies Knowledge. CI/CD, Risk Assessments, Security Architecture, Strategic Documentation, Code Reviews, BlackBox Testing, Threat Modeling, etc.
+Additionally, Experience includes Penetration Testing of Cloud based Applications, Services, and Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST) Assessments on Applications Hosted on Cloud Platforms. SaaS (Software as a Service) Applications, Including Web Applications, APIs, Network and Thick Clients. Security Best Practices and Policies Knowledge. CI/CD, Risk Assessments, Security Architecture, Strategic Documentation, Code Reviews, BlackBox Testing, Threat Modeling, etc.
 
 
 
