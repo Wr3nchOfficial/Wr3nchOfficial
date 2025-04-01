@@ -13,7 +13,6 @@ Security Engineer | Application Security | VAPT | Offensive Security | Speaker |
 
 ## 🏅 Certifications:
 - Practical Web Pentest Associate (PWPA)
-- BurpSuite Certified Professional (BCP)
 - Practical Web Pentest Professional (PWPP)
 - Practical Junior Penetration Tester (PJPT) -Queued
 - Certified Penetration Testing Specialist (CPTS) - Queued 
