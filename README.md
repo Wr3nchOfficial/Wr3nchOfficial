@@ -13,8 +13,8 @@ Security Engineer | Application Security | VAPT | Offensive Security | Speaker |
 
 ## 🏅 Certifications:
 - Practical Web Pentest Associate (PWPA)
-- Practical Web Pentest Professional (PWPP)
-- Practical Junior Penetration Tester (PJPT) -Queued
+- INE Elearn Security Junior Penetration Tester (eJPT)
+- Practical Web Pentest Professional (PWPP) - Queued
 - Certified Penetration Testing Specialist (CPTS) - Queued 
 
 
